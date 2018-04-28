@@ -2,7 +2,7 @@
 ## Основаня часть:
 *Анализ графа*
 
-Ссылка на PDF файл с графом: https://github.com/m1riada/hw8/blob/master/sukaebanaya.pdf
+Ссылка на PDF файл с графом (цфет фона FFFAFA): https://github.com/m1riada/hw8/blob/master/sukaebanaya.pdf
 
 На основе полученного мной графа можно выделить три группы людей, которые состоят у меня в друзьях.
 
